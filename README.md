@@ -1,5 +1,6 @@
 # Malaysia TIN Validator
 ![alt text](tin_validator.png)
+
 A web-based tool for validating Malaysian Tax Identification Numbers (TIN) and National Registration Identity Card (NIRC) numbers.
 
 ## Features
@@ -30,7 +31,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 
-Contributed by Min Myat Oo
+Contributed by Min Myat Oo (minmyatoo.dev@gmail.com)
 
 ## License
 
